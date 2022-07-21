@@ -5,3 +5,5 @@
 - Acceleration in Convex Optimization https://rkm0959.tistory.com/221 (for Seminar)
 - Lattice Attacks in the Wild, Theory, and CTFs (for TEAMH4C)
 - Tornado Cash (for HYPERITHM)
+- PLONK Basics (for Open Source Contributon, Advanced Track)
+- Time Based Cryptography (for Seminar)
