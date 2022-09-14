@@ -7,3 +7,4 @@
 - Tornado Cash (for HYPERITHM)
 - PLONK Basics (for Open Source Contributon, Advanced Track)
 - Time Based Cryptography (for Seminar)
+- ZK-Friendly Hash Functions (for Boom Labs 1st ZK Meetup)
