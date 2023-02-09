@@ -9,3 +9,4 @@
 - Time Based Cryptography (for Seminar)
 - ZK-Friendly Hash Functions (for Boom Labs 1st ZK Meetup)
 - Price Oracle Attacks (for CODEGATE 2022)
+- Polynomials and Elliptic Curves (ZK-School)
