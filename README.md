@@ -11,3 +11,5 @@
 - Price Oracle Attacks (for CODEGATE 2022)
 - Polynomials and Elliptic Curves (ZK-School)
 - ZK Applications (ZK-School)
+- ZKP Security (ZK-School)
+- Opinionated Survey on ZKP Security (ETH Seoul 2023)
